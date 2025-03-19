@@ -1,0 +1,19 @@
+.comments__comment {
+    border: 1px solid #000;
+    margin-bottom: 20px;
+}
+
+.comment__header {
+    background-color: #233aaf;
+    display: flex;
+    column-gap: 20px;
+    padding: 10px;
+    color: #fff;
+    border-bottom: 1px solid #000;
+}
+
+.comment__text {
+    padding: 10px 5px;
+    background-color: #233aaf1e;
+
+}
