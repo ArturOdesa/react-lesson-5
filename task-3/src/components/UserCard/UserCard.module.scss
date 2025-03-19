@@ -1,0 +1,23 @@
+.user_card {
+    width: 300px;
+    height: 350px;
+    margin: 0 auto;
+    border: solid black 1px;
+    padding: 20px 20px 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #8b7a3798;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px #000;
+}
+
+.user_card__button {
+    width: 60%;
+    padding: 10px 0;
+    box-shadow: 1px 1px 3px 2px  #2d2d2d;
+    background-color: #0050c982;
+    font-size: 14px;
+    font-weight: bold;
+}
